@@ -62,6 +62,6 @@ boton_reiniciar.addEventListener("click", function(){
     inputNum1.value = "";
     inputNum2.value = "";
 
-    parrafo.innerHTML += "";
+    parrafo.innerHTML = "";
     console.log("COnsola reiniciado exitosamente");
 });
