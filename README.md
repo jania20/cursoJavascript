@@ -1,11 +1,54 @@
-THIS REPOSITORY CONTAINS MINI CHALLENGES TO PRACTICE JAVASCRIPT.
+# JavaScript Mini Challenges
 
-First commit - README file added.
+This repository contains a collection of mini projects designed to practice and strengthen JavaScript fundamentals.
 
-Second commit - In this document, I reviewed some basic concepts such as variable usage, printing variables, addition of two numbers, conditionals, and functions.
+---
 
-Third commit - The user enters a name in an input field, and it is displayed below.
+## Commit 1 - Initial setup
+- Added README file.
 
-Fourth commit - "EdadDetector": the user enters their age, and the system determines whether the user is of legal age or not.
+---
 
-Fifth commit - "Reto Calculadora": a calculator where the user enters two numbers and selects an operation (add, subtract, divide, multiply, reset).
+## Commit 2 - JavaScript basics
+Reviewed fundamental concepts:
+- Variables
+- Console output
+- Basic arithmetic operations
+- Conditionals (if/else)
+- Functions
+
+---
+
+## Commit 3 - Name display
+A simple input-based project where the user enters their name and it is displayed dynamically on the screen.
+
+---
+
+## Commit 4 - Age Detector
+The user inputs their age, and the system determines whether they are:
+- A minor
+- An adult
+
+This project reinforces conditional logic.
+
+---
+
+## Commit 5 - Calculator
+A basic calculator that allows the user to:
+- Add
+- Subtract
+- Multiply
+- Divide
+- Reset values
+
+It includes interaction through buttons and input fields.
+
+---
+
+## Commit 6 - To-Do List App
+A simple task manager where users can:
+- Add tasks using an input field
+- Add tasks via button click or Enter key
+- Display tasks dynamically on the screen
+
+This project focuses on DOM manipulation and event handling.
