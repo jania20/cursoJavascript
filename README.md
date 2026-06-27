@@ -52,3 +52,5 @@ A simple task manager where users can:
 - Display tasks dynamically on the screen
 
 This project focuses on DOM manipulation and event handling.
+<img width="441" height="331" alt="{6D4FBCDF-ED9D-4CB4-AC6E-B305A93D9B65}" src="https://github.com/user-attachments/assets/04e6d5ab-efb8-4c1d-bf8c-6a8f1dd78b26" />
+
